@@ -37,7 +37,12 @@ __________________________________________________________
 - * Dependents in pubspec.yamal
     <!-- - * $ flutter pub add fpdart
     - * $ flutter pub add supabase_flutter -->
-    - * $ flutter pub add flutter_bloc
+    - * $ ~~dependencies:
+  flutter:
+    sdk: flutter~~
+  flutter_bloc:
+  bloc:
+
 
 __________________________________________________________
 - * IF ERROR FOUND IN MAIN.DART
